@@ -5,4 +5,4 @@
 - Computer science major student at ``Hanoi University of Mining and Geology``
 # Skills
 - Progamming language: **JavaScript, Java, Python**
-- Framework, library: **Reactjs**
+- Framework, library: **Reactjs, Nodejs**
